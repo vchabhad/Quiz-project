@@ -1,0 +1,63 @@
+{
+    "1": {
+        "question": "Who developed Python Programming Language?\n a) Wick van Rossum\n b) Rasmus Lerdorf\n c) Guido van Rossum\n d) Niene Stom",
+        "answer": "c"
+    },
+    "2": {
+        "question": "Which type of Programming does Python support?\n a) object-oriented programming\n b) structured programming\n c) functional programming\n d) all of the mentioned",
+        "answer": "d"
+    },
+    "3": {
+        "question": "Is Python case sensitive when dealing with identifiers?\n a) no\n b) yes\n c) machine dependent\n d) none of the mentioned",
+        "answer": "a"
+    },
+    "4": {
+        "question": "Which of the following is the correct extension of the Python file?\n a) .python\n b) .pl\n c) .py\n d) .p",
+        "answer": "c"
+    },
+    "5": {
+        "question": "Is Python code compiled or interpreted?\n a) Python code is both compiled and interpreted\n b) Python code is neither compiled nor interpreted\n c) Python code is only compiled\n d) Python code is only interpreted",
+        "answer": "b"
+    },
+    "6": {
+        "question": "All keywords in Python are in _________\n a) Capitalized\n b) lower case\n c) UPPER CASE\n d) None of the mentioned",
+        "answer": "d"
+    },
+    "7": {
+        "question": "Which of the following is used to define a block of code in Python language?\n a) Indentation\n b) Key\n c) Brackets\n d) All of the mentioned",
+        "answer": "a"
+    },
+    "8": {
+        "question": "Which keyword is used for function in Python language?\n a) Function\n b) Def\n c) Fun\n d) Define",
+        "answer": "b"
+    },
+    "9": {
+        "question": "Which of the following functions can help us to find the version of python that we are currently working on?\n a) sys.version(1)\n b) sys.version(0)\n c) sys.version()\n d) sys.version",
+        "answer": "a"
+    },
+    "10": {
+        "question": "Python supports the creation of anonymous functions at runtime, using a construct called __________\n a) pi\n b) anonymous\n c) lambda\n d) none of the mentioned?",
+        "answer": "c"
+    },
+    "11": {
+        "question": "What does pip stand for python?\n a) unlimited length\n b) all private members must have leading and trailing underscores\n c) Preferred Installer Program\n d) none of the mentioned",
+        "answer": "c"
+    },
+    "12": {
+        "question": "Which of the following is true for variable names in Python?\n a) underscore and ampersand are the only two special characters allowed\n b) unlimited length\n c) all private members must have leading and trailing underscores\n d) none of the mentioned",
+        "answer": "b"
+    },
+    "13": {
+        "question": "Which of the following functions is a built-in function in python?\n a) factorial()\n b) print()\n c) seed()\n d) sqrt()",
+        "answer": "b"
+    },
+    "14": {
+        "question": "Which of the following is the use of id() function in python?\n a) Every object doesn’t have a unique id\n b) Id returns the identity of the object\n c) All of the mentioned\n d) None of the mentioned",
+        "answer": "b"
+    },
+    "15": {
+        "question": "Which of the following is not a core data type in Python programming?\n a) Tuples\n b) Lists\n c) Class\n d) Dictionary",
+        "answer": "c"
+    }
+    
+}
